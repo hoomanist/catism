@@ -1,3 +1,8 @@
+'''
+this a api and tkinter training 
+author : hooman
+'''
+# import libraries
 import requests
 import sys
 from tkinter import *
